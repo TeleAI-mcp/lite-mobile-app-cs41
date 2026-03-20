@@ -1,2 +1,3 @@
-# lite-mobile-app-cs41
-Automated issue comment bot repository
+# Lite Mobile App Cs41
+
+Automated issue comment bot repository.
